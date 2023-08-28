@@ -1,0 +1,8 @@
+/dist
+/node_modules
+/mysql-data
+/.qa
+/.gitignore
+/.git/
+/.vscode
+/tests
